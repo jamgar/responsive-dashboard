@@ -1,6 +1,6 @@
-# JavaScript Starter
+# Responsive Dashboard
 
-This a JavaScript Starter Boilerplate to use for any JavaScript project you will be using ES6+. It babel and webpack. You can use it to start a React app.
+This is a responsive dashboard. It is part of my 100DaysOfCode challenge. 
 
 ### Version
 1.0.0
